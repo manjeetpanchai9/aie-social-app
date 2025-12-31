@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "625364085656",
+    "project_id": "aie-social-app-aeaa3",
+    "storage_bucket": "aie-social-app-aeaa3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625364085656:android:31402c10fb59d9840399ed",
+        "android_client_info": {
+          "package_name": "com.aie.social"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1jMMssIB5EkFUsgRi6dHzmU1_xCClifU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
